@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+Credential files
+.env
+
+Data files
+notes.txt

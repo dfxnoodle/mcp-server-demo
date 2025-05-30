@@ -1,2 +1,6 @@
 I am tired today
 I have successfully made an MCP server today, yeah!
+Working on MCP server demo - May 30, 2025
+Morning Dino
+Yeah, I have also make a MCP client
+Yahooo! I have made the MCP client interactive

@@ -111,3 +111,7 @@ def note_summary_prompt() -> str:
         return "There are no notes yet."
 
     return f"Summarize the current notes: {content}"
+
+if __name__ == "__main__":
+    # Run the FastMCP server
+    mcp.run(transport="stdio")
